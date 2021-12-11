@@ -15,7 +15,7 @@ apt full-upgrade
 apt install setterm
 ```
 
-####### repository
+##### repository
 
 ```
 git clone https://github.com/Bayu12345677/Apn/
